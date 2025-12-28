@@ -47,6 +47,10 @@
   ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/GOD%20OF%20SERVER-00FF41?style=for-the-badge&labelColor=000000" alt="God Of Server">
+</p>
+
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=170&section=footer" />

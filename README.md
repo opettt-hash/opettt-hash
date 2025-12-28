@@ -38,7 +38,7 @@
 <br>
 
 <!-- ================= IMAGEE / RESULT ================= -->
-<img src="rolandino.jpg" alt="IP Result" width="100%" />
+<img src="rolandino.jpg" alt="IP Result" width="50%" />
 <p align="center">
 <p align="center" style="font-size:25px;">
   ⭐️ ⭐️ ⭐️ ⭐️ ⭐️

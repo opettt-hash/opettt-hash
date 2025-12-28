@@ -41,6 +41,9 @@
 
 <!-- ================= IMAGE / RESULT ================= -->
 <img src="rolandino.jpg" alt="IP Result" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-00FF41?style=for-the-badge" alt="Profile Views">
+</p>
 
 <p align="center" style="font-size:25px;">
   ⭐️ ⭐️ ⭐️ ⭐️ ⭐️

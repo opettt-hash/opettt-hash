@@ -38,10 +38,10 @@
 <br>
 
 <!-- ================= IMAGEE / RESULT ================= -->
-<img src="rolandino.jpg" alt="IP Result" width="90%" />
+<img src="rolandino.jpg" alt="IP Result" width="100%" />
 <p align="center">
 <p align="center" style="font-size:25px;">
-  ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
+  ⭐️    ⭐️    ⭐️    ⭐️    ⭐️
 </p>
 
 <!-- ================= FOOTER ================= -->

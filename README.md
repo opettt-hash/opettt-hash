@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <b><span style="font-family: 'Times New Roman', serif; font-size:32px; color:#FFD700;">𝑮𝒐𝒅 𝑶𝒇 𝑺𝒆𝒓𝒗𝒆𝒓 &lt;/&gt;</span></b>
+  𝑮𝒐𝒅 𝑶𝒇 𝑺𝒆𝒓𝒗𝒆𝒓
 </p>
 
 <p align="center">

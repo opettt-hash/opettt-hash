@@ -48,11 +48,11 @@
 </p>
 
 <p align="center">
-  𝑮𝒐𝒅 𝑶𝒇 𝑺𝒆𝒓𝒗𝒆𝒓
+  
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GOD%20OF%20SERVER-FFD700?style=for-the-badge&labelColor=000000&logo=github" alt="God Of Server">
+  <img src="https://img.shields.io/badge/GOD%20OF%20SERVER-FFD700?style=for-the-badge&labelColor=000000&logo=github" alt="𝑮𝒐𝒅 𝑶𝒇 𝑺𝒆𝒓𝒗𝒆𝒓">
 </p>
 
 <!-- ================= FOOTER ================= -->

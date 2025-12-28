@@ -48,6 +48,10 @@
 </p>
 
 <p align="center">
+  <b><span style="font-family: 'Times New Roman', serif; font-size:32px; color:#FFD700;">𝑮𝒐𝒅 𝑶𝒇 𝑺𝒆𝒓𝒗𝒆𝒓 &lt;/&gt;</span></b>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/GOD%20OF%20SERVER-FFD700?style=for-the-badge&labelColor=000000&logo=github" alt="God Of Server">
 </p>
 

@@ -42,6 +42,17 @@
 <!-- ================= IMAGE / RESULT ================= -->
 <img src="rolandino.jpg" alt="IP Result" width="100%" />
 
+<!-- ================= PROFILE VISITOR & SNAKE ================= -->
+<p align="center">
+  <!-- Visitor Badge Dark Style -->
+  <img src="https://komarev.com/ghpvc/?username=opettt-hash&color=00FF41&style=for-the-badge&label=Profile+Views&labelColor=0a0a0a" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <!-- Snake Contribution Animation -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution" />
+</p>
+
 <p align="center" style="font-size:25px;">
   ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
 </p>

@@ -28,6 +28,12 @@
 
 <br>
 
+<p align="center">
+  <img width="400" src="https://i.postimg.cc/258grZf5/world1.webp" />
+</p>
+
+<br>
+
 <!-- ================= GITHUB CONTRIBUTION SNAKE ================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />

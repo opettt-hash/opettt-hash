@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/THE/GOD%20OF%20SERVER-FFD700?style=for-the-badge&labelColor=000000&logo=python&logoColor=white" alt=" The 𝑮𝒐𝒅 𝑶𝒇 𝑺𝒆𝒓𝒗𝒆𝒓">
+  <img src="https://img.shields.io/badge/THE GOD%20OF%20SERVER-FFD700?style=for-the-badge&labelColor=000000&logo=python&logoColor=white" alt=" The 𝑮𝒐𝒅 𝑶𝒇 𝑺𝒆𝒓𝒗𝒆𝒓">
 </p>
 
 <!-- ================= FOOTER ================= -->

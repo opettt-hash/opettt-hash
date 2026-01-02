@@ -51,5 +51,5 @@
 
 <br>
 
- <img src="https://img.shields.io/badge/Cyber%100Security-111111?style=flat&logo=kalilinux&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Cyber%20Security-111111?style=flat&logo=kalilinux&logoColor=white"/>
  

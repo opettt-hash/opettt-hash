@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/THE GOD%20OF%20SERVER-FFD700?style=for-the-badge&labelColor=000000&logo=python&logoColor=white" alt="The 𝑮𝒐𝒅 𝑶𝒇 𝑺𝒆𝒓𝒗𝒆𝒓">
 </p>
 
+ <img src="https://img.shields.io/badge/Cyber%20Security-111111?style=flat&logo=kalilinux&logoColor=white"/>
+
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=170&section=footer" />

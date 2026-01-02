@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/THE GOD%20OF%20SERVER-FFD700?style=for-the-badge&labelColor=000000&logo=python&logoColor=white" alt="The 𝑮𝒐𝒅 𝑶𝒇 𝑺𝒆𝒓𝒗𝒆𝒓">
 </p>
 
- <img src="https://img.shields.io/badge/Cyber%20Security-111111?style=flat&logo=kalilinux&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Cyber%100Security-111111?style=flat&logo=kalilinux&logoColor=white"/>
 
 <!-- ================= FOOTER ================= -->
 <p align="center">

@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=divider" />
+</p>
+
+<br>
+
 <!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,100:1a1a1a&height=230&section=header&text=CRACKERS%20COMMUNITY&fontColor=ffffff&fontSize=58&fontAlignY=40&animation=fadeIn" />
@@ -57,3 +63,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=170&section=footer" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=divider" />
+</p>
+
+<br>

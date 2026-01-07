@@ -46,8 +46,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=170&section=footer" />
 </p>
 
-<img src="https://img.shields.io/badge/Cyber%20Security-111111?style=flat&logo=kalilinux&logoColor=white"/>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=divider" />
 </p>

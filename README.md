@@ -38,7 +38,7 @@
 
  
 <p align="center">
-  <img src="https://img.shields.io/badge/THE GOD%20OF%20SERVER-FFD700?style=for-the-badge&labelColor=000000&logo=python&logoColor=white" alt="PYTHON">
+  <img src="https://img.shields.io/badge/PYTHON%20%20-FFD700?style=for-the-badge&labelColor=000000&logo=python&logoColor=white" alt="PYTHON">
 </p>
 
 <!-- ================= FOOTER ================= -->
